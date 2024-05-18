@@ -1,0 +1,17 @@
+* {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: black;
+    background-color: rgb(191, 169, 120);
+}
+li {
+    list-style-type: none;
+}
+h1{
+    border-bottom: 1px solid black;
+    padding-bottom: 5px;
+    text-align: center;
+}
+
+.summary{
+   margin-left: 20px; 
+}
